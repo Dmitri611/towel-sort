@@ -1,9 +1,9 @@
-# Towel Sort
+    # Towel Sort
 
 ## Task
 Your task is to implement the so-called 'towel sort' algorithm.
 
-`towelSort` function should expect [matrix](https://en.wikipedia.org/wiki/Array_data_structure#Multidimensional_arrays) of any shape for example:
+`towelSort` function should expect [matrix](    ) of any shape for example:
 
 ```js
 [
